@@ -1,0 +1,1 @@
+Paprastas web scraping projektas. Naujausios straipsnių antraštės periodiškai nuskaitomos nuo finance.yahoo, jei kur nors aptinkami raktažodžiai, tas straipsnis yra apibrendrinamas su genAI ir išsiunčiamas į norimą discord kanalą.
